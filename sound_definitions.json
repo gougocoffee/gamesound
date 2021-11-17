@@ -1,0 +1,23 @@
+{
+  "game_begin": {
+    "category":"ambient",
+     "min_distance": 100.0,
+    "sounds": [
+      "sounds/game_begin"
+    ]
+  },
+  "game_over": {
+    "category":"ambient",
+     "min_distance": 100.0,
+    "sounds": [
+      "sounds/game_over"
+    ]
+  },
+  "winning": {
+    "category":"ambient",
+     "min_distance": 100.0,
+    "sounds": [
+      "sounds/winning"
+    ]
+  }
+}
